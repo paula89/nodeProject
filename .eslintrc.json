@@ -18,6 +18,7 @@
   "rules": {
     "indent": [2], // ,3] to says qty spaces,
     "semi": [2],
-    "quotes": [2]
+    "quotes": [2],
+    "comma-dangle": "off"
   }
 }
